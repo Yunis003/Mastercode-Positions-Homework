@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.aqua{
+background-color: aqua;
+width: 560px;
+height: 100px;
+margin: 60px auto;
+}
+
+.main{
+    text-align: center;
+    padding-top:30px ;
+}
+ 
+.static1{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+
+}
+.relative{
+    background-color: darkgreen;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-left: 125px;
+    position: relative;
+    bottom: 20px;
+}
+.static2{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-left: 125px;
+
+}
+.absolute{
+    width: 100px;
+    height: 100px;
+    background-color: darkviolet;
+    position: absolute;
+    top: 50px;
+    left: 15rem;
+}
+.static3{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-left:30px ;
+}
+.static4{
+    background-color: yellow;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin-left:17rem;
+}
+.static5{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    
+
+}
+.fixed{
+    background-color:red;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-left: 125px;
+    position: fixed;
+    
+}
+.static6{
+background-color: yellow;
+width: 100px;
+height: 100px;
+display: inline-block;
+margin-left: 22rem;
+}

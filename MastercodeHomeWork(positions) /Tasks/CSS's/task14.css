@@ -1,0 +1,34 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.texts{
+width: 80rem;
+height:120rem  ;
+}
+.text1{
+    display: inline-block;
+    width: 22rem;
+}
+.text2{
+    display: inline-block;
+    width:18rem ;
+    margin-left: 20rem;
+}
+.fixed{
+    background-color: pink;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    position: fixed;
+    top:20px
+}
+.sticky{
+    background-color: rgb(230, 182, 124);
+    text-align: center;
+    width:200px ;
+    height: 50px;
+    position: sticky;
+    top: 150px;
+    left: 20rem;
+}

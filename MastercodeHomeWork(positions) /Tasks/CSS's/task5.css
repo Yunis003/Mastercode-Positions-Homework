@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-div{
+background-color: grey;
+margin:30px;
+width: auto;
+height:500px;
+
+}
+.red, .pink, .yellow, .darkgreen, .blue{
+    display: inline-block;
+}
+.red{
+    background-color:red;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+   
+
+  
+}
+.pink{
+    background-color: pink;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    top: 120px;
+    right: 20px;
+   
+}
+.yellow{
+    background-color:yellow;
+    width: 150px;
+    height: 150px;
+   position: relative;
+   right:80px;
+   top: 145px;
+   
+
+}
+
+.darkgreen{
+    background-color:darkgreen;
+    width: 150px;
+    height: 150px;
+    position: relative;
+    right: 220px;
+    top: 80px;
+}
+.blue{
+background-color:blue;
+width: 150px;
+height: 150px;
+position: relative;
+right: 330px;
+top:130px ;
+
+
+}

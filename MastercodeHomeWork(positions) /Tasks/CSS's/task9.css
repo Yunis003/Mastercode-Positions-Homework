@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.scrollingdiv{
+    height: 100vh;
+}
+.main{
+    width:fit-content;
+    height: 200px;
+    margin: 30px;
+    border: 1px solid black;
+    
+}
+.absolute{
+    background-color: darkviolet;
+    color: white;
+    padding: 20px;
+    width: 100px;
+    height: 100px;
+    position:absolute;
+    top:30px;
+    right: 30px;
+    border-radius:10px
+    
+}

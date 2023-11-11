@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box
+}
+.blackline{
+width: 500px;
+height: 550px;
+border: 1px solid black ;
+border-radius: 10px;
+margin: 50px;
+}
+
+.main{
+    margin: 20px;
+    border-radius: 15px;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+}
+
+.aqua{
+    background-color: aqua;
+ position: relative;
+ top: 60px;
+   
+}
+.blue{
+    background-color: blue;
+    position: relative;
+    bottom: 120px;
+ 
+}
+.red{
+    background-color: red;
+    position: relative;
+    bottom: 100px;
+
+    
+}
+.violet{
+    background-color: violet;
+}
+
+
+
+

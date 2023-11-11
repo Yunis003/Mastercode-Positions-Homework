@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box
+}
+.scrollingdiv{
+    height: 800vh;
+}
+.style{
+    text-align: justify;
+    font-weight: bold;
+    margin:10px;
+    font-size:x-large;
+    color:bisque
+}
+.sticky{
+    background-color: darkgreen;
+    color:aliceblue;
+    padding: 20px;
+    width: auto;
+    height: 60px;
+    position: sticky;
+    top: 50px;
+}
